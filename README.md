@@ -1,5 +1,5 @@
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sI0n5H2NAZI/0.jpg)](https://www.youtube.com/watch?v=sI0n5H2NAZI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UVDcDXz7URg/0.jpg)](https://www.youtube.com/shorts/UVDcDXz7URg)
 
 # Lazy Acid: Arduino Nano-based random bassline generator for modular synths
 
