@@ -26,5 +26,5 @@ There's a start/stop switch, a generator switch, and a clock mode switch.
 
 There's a stripboard layout for now, will update with kicad files in the future.
 
-
+Tip: For better tuning, measure voltage at Vin of the MCP4725. Then, in the .ino file change the value of vref on line 212 to match your reading.
 
